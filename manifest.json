@@ -1,7 +1,7 @@
 {"name":"Twittbook",
 "short_name":"Twittbook",
 "scope": "https://github.com/ukasyahf/sitemanifest/blob/master/sw.js",
-"start_url": ["https://www.twitt-book.com/","https://www.twitt-book.com/?m=1"],
+"start_url": "https://www.twitt-book.com/","https://www.twitt-book.com/?m=1"
 "description": "Media Informasi Terpercaya Indonesia",
 "orientation": "any",
 "icons":[{"src":"https://1.bp.blogspot.com/-A33cYeQnUQ8/XyzQcLD4WhI/AAAAAAAAAXM/iter62Ko8FI4pY64TAjyx9VvB1TagEaXgCLcBGAsYHQ/s1600/android-chrome-192x192.png",
