@@ -5,7 +5,7 @@
     "background_color": "#fa99ca",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://www.twitt-book.com",
+    "start_url": "https://www.twitt-book.com/?m=1",
     "description": "Media Informasi Terpercaya Indonesia",
     "orientation": "any",
     "icons": [
