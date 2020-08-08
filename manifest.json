@@ -1,6 +1,6 @@
 {"name":"Twittbook",
 "short_name":"Twittbook",
-"scope": "/?m=1",
+"scope": "https://github.com/ukasyahf/sitemanifest/blob/master/sw.js",
 "start_url": "https://www.twitt-book.com",
 "description": "Media Informasi Terpercaya Indonesia",
 "orientation": "any",
